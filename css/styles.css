@@ -183,7 +183,7 @@ footer{
     cursor: pointer;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 576px) {
 
     #banner{
         margin-top: 10vh;
